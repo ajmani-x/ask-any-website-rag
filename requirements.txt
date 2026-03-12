@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-cohere
+langchain-text-splitters
+langchain-chroma
+chromadb
+cohere
+python-dotenv
