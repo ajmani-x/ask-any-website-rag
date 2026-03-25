@@ -46,6 +46,7 @@ Context:
 
 Question:
 {query}
+
 """
     result = model.invoke(prompt)
     return result.content
